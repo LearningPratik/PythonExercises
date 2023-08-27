@@ -11,3 +11,6 @@
 
 One of example from the notebook : 
 ![image](https://github.com/LearningPratik/PythonExercises/assets/139999671/7d0081fc-283b-4685-879b-3ac90fb085a2)
+
+
+# I have given explanation about the concept in the notebook, refer them and suggestions are welcomed..
